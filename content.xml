@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504212101F1F8L3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504212101ZEHYWK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Detectives de las palabras: comunicamos para cuidar nuestra forma de hablar y escribir</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Azcano Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777922457170</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morl4jso-haa6frddv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Detectives de las palabras: counicarnos para cuidar nuestra forma de hablar y escribir</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detectives de las palabras: counicarnos para cuidar nuestra forma de hablar y escribir</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detectives de las palabras: counicarnos para cuidar nuestra forma de hablar y escribir</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Detectives de las palabras: counicarnos para cuidar nuestra forma de hablar y escribir</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jso-haa6frddv</odePageId>
+      <odeBlockId>block-1777886692251-n819ee86q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jso-haa6frddv</odePageId>
+          <odeBlockId>block-1777886692251-n819ee86q</odeBlockId>
+          <odeIdeviceId>idevice-1777886692247-hb7ybmz7v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se diseña para el tercer ciclo de Educación Primaria, concretamente para 5.º de Primaria, en el área de Lengua Castellana y Literatura, con posibles conexiones con Educación en Valores Cívicos y Sociales, Tutorización y, en su caso, con la intervención específica del ámbito de Audición y Lenguaje. Su planteamiento responde a una necesidad real del aula: mejorar la expresión oral y escrita, ampliar vocabulario, organizar ideas con claridad y utilizar recursos digitales sencillos para comunicar mensajes de forma comprensible, creativa y rigurosa.</p>
+<p>A lo largo de la situación de aprendizaje, el alumnado actuará como un equipo de “detectives de las palabras” que investiga, selecciona y transforma información sobre la comunicación oral y escrita, los errores más frecuentes del habla y la escritura, las normas básicas de un buen mensaje y los recursos que ayudan a expresarse mejor. El proceso culminará en la creación de dos productos finales: una infografía interactiva y un podcast breve, que servirán para compartir con otros compañeros y compañeras lo aprendido de manera clara y atractiva.</p>
+<p>La duración prevista es de 8 sesiones de 45 minutos, distribuidas a lo largo de dos semanas. Esta temporalización permite trabajar de forma gradual las distintas fases del proceso: activación de conocimientos previos, búsqueda guiada de información, selección y organización de contenidos, elaboración de borradores, diseño de productos finales y presentación oral. La propuesta combina diferentes tipos de agrupamiento, en coherencia con los principios del Diseño Universal para el Aprendizaje, alternando trabajo individual, parejas, pequeños grupos cooperativos y gran grupo. La organización espacial será flexible: aula ordinaria, rincones de trabajo, zona de exposición y, cuando sea posible, espacio con dispositivos digitales para la creación de los productos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886692247-hb7ybmz7v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se diseña para el tercer ciclo de Educación Primaria, concretamente para 5.º de Primaria, en el área de Lengua Castellana y Literatura, con posibles conexiones con Educación en Valores Cívicos y Sociales, Tutorización y, en su caso, con la intervención específica del ámbito de Audición y Lenguaje. Su planteamiento responde a una necesidad real del aula: mejorar la expresión oral y escrita, ampliar vocabulario, organizar ideas con claridad y utilizar recursos digitales sencillos para comunicar mensajes de forma comprensible, creativa y rigurosa.</p>\n<p>A lo largo de la situación de aprendizaje, el alumnado actuará como un equipo de “detectives de las palabras” que investiga, selecciona y transforma información sobre la comunicación oral y escrita, los errores más frecuentes del habla y la escritura, las normas básicas de un buen mensaje y los recursos que ayudan a expresarse mejor. El proceso culminará en la creación de dos productos finales: una infografía interactiva y un podcast breve, que servirán para compartir con otros compañeros y compañeras lo aprendido de manera clara y atractiva.</p>\n<p>La duración prevista es de 8 sesiones de 45 minutos, distribuidas a lo largo de dos semanas. Esta temporalización permite trabajar de forma gradual las distintas fases del proceso: activación de conocimientos previos, búsqueda guiada de información, selección y organización de contenidos, elaboración de borradores, diseño de productos finales y presentación oral. La propuesta combina diferentes tipos de agrupamiento, en coherencia con los principios del Diseño Universal para el Aprendizaje, alternando trabajo individual, parejas, pequeños grupos cooperativos y gran grupo. La organización espacial será flexible: aula ordinaria, rincones de trabajo, zona de exposición y, cuando sea posible, espacio con dispositivos digitales para la creación de los productos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jst-nowehjgeb</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName>1.Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jst-nowehjgeb</odePageId>
+      <odeBlockId>block-1777886736205-cfqi4gc6l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jst-nowehjgeb</odePageId>
+          <odeBlockId>block-1777886736205-cfqi4gc6l</odeBlockId>
+          <odeIdeviceId>idevice-1777886736201-1sk3ipz1y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La finalidad de esta situación de aprendizaje es desarrollar la competencia comunicativa del alumnado desde un enfoque funcional, inclusivo y motivador. Se pretende que los niños y niñas comprendan que hablar, escuchar, leer y escribir son herramientas para aprender, convivir y participar en la vida escolar y social. Asimismo, se busca reforzar la conciencia sobre la importancia de expresarse con claridad, respetar los turnos de palabra, revisar los mensajes antes de compartirlos y utilizar apoyos visuales y digitales para mejorar la comprensión.</p>
+<p>La propuesta parte de una necesidad observable en el aula: la presencia de dificultades en la organización del discurso oral, la formulación de mensajes escritos breves y la comprensión de textos informativos sencillos. A través de tareas contextualizadas, el alumnado podrá aplicar estrategias de planificación, revisión y mejora de sus producciones, favoreciendo así un aprendizaje significativo y transferible a situaciones reales. Se espera, además, un impacto positivo en la autoestima comunicativa, la participación oral, la cooperación y el uso responsable de herramientas digitales.</p>
+<p>Esta SdA se relaciona con varios ODS, especialmente con el ODS 4: Educación de calidad, al promover una enseñanza inclusiva y equitativa, y con el ODS 10: Reducción de las desigualdades, al ofrecer apoyos diversos para que todo el alumnado participe y aprenda. También conecta con retos del siglo XXI como la alfabetización mediática, la comunicación eficaz, el pensamiento crítico y la ciudadanía digital responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886736201-1sk3ipz1y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La finalidad de esta situación de aprendizaje es desarrollar la competencia comunicativa del alumnado desde un enfoque funcional, inclusivo y motivador. Se pretende que los niños y niñas comprendan que hablar, escuchar, leer y escribir son herramientas para aprender, convivir y participar en la vida escolar y social. Asimismo, se busca reforzar la conciencia sobre la importancia de expresarse con claridad, respetar los turnos de palabra, revisar los mensajes antes de compartirlos y utilizar apoyos visuales y digitales para mejorar la comprensión.</p>\n<p>La propuesta parte de una necesidad observable en el aula: la presencia de dificultades en la organización del discurso oral, la formulación de mensajes escritos breves y la comprensión de textos informativos sencillos. A través de tareas contextualizadas, el alumnado podrá aplicar estrategias de planificación, revisión y mejora de sus producciones, favoreciendo así un aprendizaje significativo y transferible a situaciones reales. Se espera, además, un impacto positivo en la autoestima comunicativa, la participación oral, la cooperación y el uso responsable de herramientas digitales.</p>\n<p>Esta SdA se relaciona con varios ODS, especialmente con el ODS 4: Educación de calidad, al promover una enseñanza inclusiva y equitativa, y con el ODS 10: Reducción de las desigualdades, al ofrecer apoyos diversos para que todo el alumnado participe y aprenda. También conecta con retos del siglo XXI como la alfabetización mediática, la comunicación eficaz, el pensamiento crítico y la ciudadanía digital responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jsu-2gu181lbn</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jsu-2gu181lbn</odePageId>
+      <odeBlockId>block-1777886753905-xpy4a87hc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsu-2gu181lbn</odePageId>
+          <odeBlockId>block-1777886753905-xpy4a87hc</odeBlockId>
+          <odeIdeviceId>idevice-1777886753902-2djddkt13</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias clave y perfil de salida<br />Esta situación de aprendizaje contribuye principalmente al desarrollo de la competencia en comunicación lingüística, la competencia digital, la competencia personal, social y de aprender a aprender, la competencia ciudadana y la competencia emprendedora. Asimismo, favorece varios descriptores operativos del perfil de salida relacionados con la interacción oral, la comprensión y producción de textos, el trabajo cooperativo, la autorregulación del aprendizaje y el uso seguro y creativo de herramientas digitales.</p>
+<p>Competencias específicas<br />Las competencias específicas que se trabajarán en esta SdA son las siguientes:</p>
+<p>[CE1] Comprender e interpretar textos orales, escritos y multimodales adecuados al nivel, identificando la información relevante y el propósito comunicativo.<br />[CE2] Producir textos orales y escritos sencillos, coherentes y adecuados a la situación comunicativa, aplicando estrategias de planificación, revisión y mejora.<br />[CE3] Participar en interacciones orales de forma respetuosa, activa y cooperativa, ajustando el discurso al contexto y a los interlocutores.<br />[CE4] Utilizar herramientas digitales básicas para buscar, organizar, crear y comunicar información de forma guiada, segura y responsable.<br />[CE5] Reflexionar sobre la lengua y sobre las propias producciones para mejorar la corrección, la precisión y la claridad comunicativa.<br />Saberes básicos<br />Los saberes básicos integrados en esta situación de aprendizaje incluyen:</p>
+<p>La comunicación oral en contextos cotidianos y escolares.<br />La escucha activa, el respeto del turno de palabra y la adecuación del discurso.<br />La planificación, redacción y revisión de textos breves.<br />El vocabulario básico relacionado con la comunicación y la expresión.<br />Estrategias de búsqueda, selección y organización de información.<br />La creación de textos multimodales e infografías.<br />El uso básico y responsable de herramientas digitales.<br />La cooperación, la coevaluación y la autoevaluación como parte del proceso de aprendizaje.<br />Criterios de evaluación<br />Los criterios de evaluación vinculados a esta situación de aprendizaje son los siguientes:</p>
+<p>[Criterio 1] Identifica información relevante en textos orales, escritos y multimodales sencillos.<br />[Criterio 2] Produce mensajes orales y escritos breves con claridad, coherencia y adecuación.<br />[Criterio 3] Participa en interacciones grupales respetando normas básicas de comunicación.<br />[Criterio 4] Emplea recursos digitales sencillos para elaborar productos finales con apoyo del docente.<br />[Criterio 5] Revisa y mejora sus producciones a partir de la retroalimentación recibida.<br />La evaluación será continua, formativa y orientada a la mejora. Se utilizarán rúbricas para la infografía y el podcast, listas de cotejo para el proceso de trabajo, observación directa, registros anecdóticos, autoevaluación y coevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886753902-2djddkt13","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias clave y perfil de salida<br />Esta situación de aprendizaje contribuye principalmente al desarrollo de la competencia en comunicación lingüística, la competencia digital, la competencia personal, social y de aprender a aprender, la competencia ciudadana y la competencia emprendedora. Asimismo, favorece varios descriptores operativos del perfil de salida relacionados con la interacción oral, la comprensión y producción de textos, el trabajo cooperativo, la autorregulación del aprendizaje y el uso seguro y creativo de herramientas digitales.</p>\n<p>Competencias específicas<br />Las competencias específicas que se trabajarán en esta SdA son las siguientes:</p>\n<p>[CE1] Comprender e interpretar textos orales, escritos y multimodales adecuados al nivel, identificando la información relevante y el propósito comunicativo.<br />[CE2] Producir textos orales y escritos sencillos, coherentes y adecuados a la situación comunicativa, aplicando estrategias de planificación, revisión y mejora.<br />[CE3] Participar en interacciones orales de forma respetuosa, activa y cooperativa, ajustando el discurso al contexto y a los interlocutores.<br />[CE4] Utilizar herramientas digitales básicas para buscar, organizar, crear y comunicar información de forma guiada, segura y responsable.<br />[CE5] Reflexionar sobre la lengua y sobre las propias producciones para mejorar la corrección, la precisión y la claridad comunicativa.<br />Saberes básicos<br />Los saberes básicos integrados en esta situación de aprendizaje incluyen:</p>\n<p>La comunicación oral en contextos cotidianos y escolares.<br />La escucha activa, el respeto del turno de palabra y la adecuación del discurso.<br />La planificación, redacción y revisión de textos breves.<br />El vocabulario básico relacionado con la comunicación y la expresión.<br />Estrategias de búsqueda, selección y organización de información.<br />La creación de textos multimodales e infografías.<br />El uso básico y responsable de herramientas digitales.<br />La cooperación, la coevaluación y la autoevaluación como parte del proceso de aprendizaje.<br />Criterios de evaluación<br />Los criterios de evaluación vinculados a esta situación de aprendizaje son los siguientes:</p>\n<p>[Criterio 1] Identifica información relevante en textos orales, escritos y multimodales sencillos.<br />[Criterio 2] Produce mensajes orales y escritos breves con claridad, coherencia y adecuación.<br />[Criterio 3] Participa en interacciones grupales respetando normas básicas de comunicación.<br />[Criterio 4] Emplea recursos digitales sencillos para elaborar productos finales con apoyo del docente.<br />[Criterio 5] Revisa y mejora sus producciones a partir de la retroalimentación recibida.<br />La evaluación será continua, formativa y orientada a la mejora. Se utilizarán rúbricas para la infografía y el podcast, listas de cotejo para el proceso de trabajo, observación directa, registros anecdóticos, autoevaluación y coevaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jsv-v1zv39fjq</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jsv-v1zv39fjq</odePageId>
+      <odeBlockId>block-1777886771590-xoihl464f</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsv-v1zv39fjq</odePageId>
+          <odeBlockId>block-1777886771590-xoihl464f</odeBlockId>
+          <odeIdeviceId>idevice-1777886771587-loax1tdz2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La metodología principal será el aprendizaje basado en proyectos, ya que la SdA parte de un reto concreto y culmina en productos finales significativos. A ello se añadirán estrategias de aprendizaje cooperativo, pequeñas dosis de aula invertida para la consulta guiada de recursos y actividades de reflexión metacognitiva al cierre de cada sesión.</p>
+<p>El enfoque será inclusivo y participativo, de modo que cada alumno y alumna pueda aportar desde sus fortalezas. Habrá tareas con distintos niveles de apoyo, plantillas visuales, organizadores gráficos, modelos previos, opciones de respuesta oral o escrita y andamiajes graduados para facilitar el acceso al aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886771587-loax1tdz2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La metodología principal será el aprendizaje basado en proyectos, ya que la SdA parte de un reto concreto y culmina en productos finales significativos. A ello se añadirán estrategias de aprendizaje cooperativo, pequeñas dosis de aula invertida para la consulta guiada de recursos y actividades de reflexión metacognitiva al cierre de cada sesión.</p>\n<p>El enfoque será inclusivo y participativo, de modo que cada alumno y alumna pueda aportar desde sus fortalezas. Habrá tareas con distintos niveles de apoyo, plantillas visuales, organizadores gráficos, modelos previos, opciones de respuesta oral o escrita y andamiajes graduados para facilitar el acceso al aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jsw-gnzmyax4h</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName> 4.Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 4.Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 4.Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jsw-gnzmyax4h</odePageId>
+      <odeBlockId>block-1777886788379-owp08wt63</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsw-gnzmyax4h</odePageId>
+          <odeBlockId>block-1777886788379-owp08wt63</odeBlockId>
+          <odeIdeviceId>idevice-1777886788377-kjujqffdd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula de forma directa con el PLEI, al fomentar la comprensión lectora, la lectura funcional de textos informativos y la creación de mensajes claros para una audiencia real. También se relaciona con el PAD, ya que incorpora medidas de atención a la diversidad, apoyos visuales, diferenciación de tareas y variedad de canales de acceso y expresión.</p>
+<p>Asimismo, puede conectarse con el PDC, al integrar el uso de herramientas digitales sencillas para la elaboración de una infografía interactiva y un podcast. Si el centro dispone de radio escolar, biblioteca escolar, aula de informática o proyectos de comunicación interna, esta SdA puede integrarse fácilmente en ellos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886788377-kjujqffdd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se vincula de forma directa con el PLEI, al fomentar la comprensión lectora, la lectura funcional de textos informativos y la creación de mensajes claros para una audiencia real. También se relaciona con el PAD, ya que incorpora medidas de atención a la diversidad, apoyos visuales, diferenciación de tareas y variedad de canales de acceso y expresión.</p>\n<p>Asimismo, puede conectarse con el PDC, al integrar el uso de herramientas digitales sencillas para la elaboración de una infografía interactiva y un podcast. Si el centro dispone de radio escolar, biblioteca escolar, aula de informática o proyectos de comunicación interna, esta SdA puede integrarse fácilmente en ellos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jsw-9416dzc3h</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jsw-9416dzc3h</odePageId>
+      <odeBlockId>block-1777886808853-188uxs8ds</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsw-9416dzc3h</odePageId>
+          <odeBlockId>block-1777886808853-188uxs8ds</odeBlockId>
+          <odeIdeviceId>idevice-1777886808819-7le58f82o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como actividad complementaria, el producto final podrá presentarse a otros grupos del centro, a familias o en la web/blog escolar. También puede organizarse una pequeña exposición en el pasillo o biblioteca con códigos QR que enlacen a la infografía y al podcast, favoreciendo así la difusión del aprendizaje.</p>
+<p>De forma opcional, se puede relacionar la SdA con una visita a la biblioteca escolar, una sesión con la coordinadora TIC o una colaboración con el plan lector del centro. Estas acciones refuerzan el sentido funcional de la tarea y otorgan autenticidad al trabajo realizado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886808819-7le58f82o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como actividad complementaria, el producto final podrá presentarse a otros grupos del centro, a familias o en la web/blog escolar. También puede organizarse una pequeña exposición en el pasillo o biblioteca con códigos QR que enlacen a la infografía y al podcast, favoreciendo así la difusión del aprendizaje.</p>\n<p>De forma opcional, se puede relacionar la SdA con una visita a la biblioteca escolar, una sesión con la coordinadora TIC o una colaboración con el plan lector del centro. Estas acciones refuerzan el sentido funcional de la tarea y otorgan autenticidad al trabajo realizado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morl4jsw-51z8qffj3</odePageId>
+  <odeParentPageId>page-morl4jso-haa6frddv</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morl4jsw-51z8qffj3</odePageId>
+      <odeBlockId>block-1777887277722-5jsybuwzs</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsw-51z8qffj3</odePageId>
+          <odeBlockId>block-1777887277722-5jsybuwzs</odeBlockId>
+          <odeIdeviceId>idevice-1777887277719-jd27u8fac</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Detectives de las palabras: comunicamos para cuidar nuestra forma de hablar y escribir</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Elena Azcano Fernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morl4jsw-51z8qffj3</odePageId>
+      <odeBlockId>block-1777886824529-uoedmlmxe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morl4jsw-51z8qffj3</odePageId>
+          <odeBlockId>block-1777886824529-uoedmlmxe</odeBlockId>
+          <odeIdeviceId>idevice-1777886824527-xh9oio4o8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Se permite su copia, distribución, transformación y reutilización, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>
+<p>Autoría: Elena Azcano Fernández<br />Etapa y nivel: 5.º de Primaria<br />Área: Lengua Castellana y Literatura<br />Licencia: CC BY-SA 4.0<br />Enlace al archivo fuente (.elp): </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777886824527-xh9oio4o8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Se permite su copia, distribución, transformación y reutilización, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>\n<p>Autoría: Elena Azcano Fernández<br />Etapa y nivel: 5.º de Primaria<br />Área: Lengua Castellana y Literatura<br />Licencia: CC BY-SA 4.0<br />Enlace al archivo fuente (.elp): </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
